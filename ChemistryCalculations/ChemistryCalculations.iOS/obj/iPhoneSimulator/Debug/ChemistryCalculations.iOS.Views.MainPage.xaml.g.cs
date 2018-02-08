@@ -11,8 +11,8 @@
 namespace ChemistryCalculations.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\patrickzdunek\\source\\repos\\ChemistryCalculations\\ChemistryCalculations\\C" +
-        "hemistryCalculations\\Views\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/patrickzdunek/Desktop/Practice Mobile Applications/ChemistryCalculations/C" +
+        "hemistryCalculations/ChemistryCalculations/Views/MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
